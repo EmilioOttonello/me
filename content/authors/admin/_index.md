@@ -57,7 +57,7 @@ skills:
         description: ''
         percent: 80
         icon: creo
-        icon_pack: fas
+        icon_pack: custom
       - name: Cad modeling
         description: ''
         percent: 80
