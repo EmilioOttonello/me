@@ -50,13 +50,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 50
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: PTC Creo
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 80
+        icon: creo
         icon_pack: fas
       - name: SQL
         description: ''
