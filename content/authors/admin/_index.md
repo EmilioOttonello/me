@@ -53,14 +53,14 @@ skills:
         percent: 50
         icon: python
         icon_pack: fab
-      - name: PTC Creo
+      - name: Mechanical drawing
         description: ''
         percent: 80
         icon: creo
         icon_pack: fas
-      - name: SQL
+      - name: Cad modeling
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
