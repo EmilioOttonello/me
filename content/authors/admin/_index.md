@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+My name is Emilio Ottonello. In 2021 I gratuated cum laude in Mechanical Engineering at the University of Genoa. Currently, I am pursuing a PhD in Advanced and Humanoid Robotics at the Istituto Italiano di Tecnologia.
+My research topic is the application of the Additive Manufacturing (AM) technologies in robotics. I mostly work on additively manufactured compliant mechanisms and high mechanical properties curved printed parts.
