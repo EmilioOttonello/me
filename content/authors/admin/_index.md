@@ -55,7 +55,7 @@ skills:
         icon_pack: fab
       - name: Mechanical drawing
         description: ''
-        percent: 80
+        percent: 70
         icon: creo
         icon_pack: custom
       - name: Cad modeling
