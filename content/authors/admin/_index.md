@@ -56,8 +56,8 @@ skills:
       - name: Mechanical drawing
         description: ''
         percent: 70
-        icon: creo
-        icon_pack: custom
+        icon: pencil
+        icon_pack: hero
       - name: Cad modeling
         description: ''
         percent: 80
