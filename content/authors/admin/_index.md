@@ -90,10 +90,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:emilioottonello@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/OttonelloEmi
     label: Follow me on Twitter
     display:
       header: true
@@ -102,10 +102,10 @@ social:
     link: https://scholar.google.com/citations?user=TcBYywkAAAAJ&hl=it
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/EmilioOttonello
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/emilio-ottonello/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
