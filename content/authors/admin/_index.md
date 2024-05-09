@@ -67,20 +67,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Football
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 90
+        icon: futbol
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Tennis and Padel
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: table-tennis-paddle-ball
+        icon_pack: fas
+      - name: 3D printing
+        description: ''
+        percent: 80
+        icon: print
         icon_pack: fas
 
 # Social/Academic Networking
