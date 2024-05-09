@@ -92,6 +92,7 @@ sections:
           date_start: '2022-12-01'
           date_end: ''
           #description: Design of a novel curved MEX system
+          
     design:
       columns: '2'
   - block: accomplishments
