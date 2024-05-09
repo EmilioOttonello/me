@@ -87,7 +87,7 @@ sections:
         - title: Mathematics and Physics tutor
           company: GoStudent
           company_url: 'https://www.gostudent.org/'
-          company_logo: gost
+          #company_logo: gost
           location: -
           date_start: '2022-12-01'
           date_end: ''
