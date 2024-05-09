@@ -78,11 +78,20 @@ sections:
         - title: Visitng PhD student
           company: Inria - MFX
           company_url: 'https://mfx.loria.fr/'
-          company_logo: org-x
+          company_logo: mfx
           location: Nancy
           date_start: '2023-10-01'
           date_end: '2024-03-31'
           description: Design of a novel curved MEX system
+
+        - title: Mathematics and Physics tutor
+          company: GoStudent
+          company_url: 'https://www.gostudent.org/'
+          company_logo: gostudent
+          location: -
+          date_start: '2022-12-01'
+          date_end: ''
+          #description: Design of a novel curved MEX system
     design:
       columns: '2'
   - block: accomplishments
