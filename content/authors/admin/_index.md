@@ -61,7 +61,7 @@ skills:
       - name: Cad modeling
         description: ''
         percent: 70
-        icon: database
+        icon: cube
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
