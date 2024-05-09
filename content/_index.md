@@ -65,7 +65,7 @@ sections:
         - title: PhD student
           company: Istituto Italiano di Tecnologia
           company_url: 'https://www.iit.it/'
-          company_logo: iit
+          company_logo: org-gc
           location: Genova
           date_start: '2021-11-01'
           date_end: ''
@@ -78,14 +78,11 @@ sections:
         - title: Visitng PhD student
           company: Inria - MFX
           company_url: 'https://mfx.loria.fr/'
-          company_logo: mfx
+          company_logo: org-x
           location: Nancy
           date_start: '2023-10-01'
           date_end: '2024-03-31'
-          description: Design of a novel curved MEX system
-
-        
-
+          description: Design of a novel MEX 
     design:
       columns: '2'
   - block: accomplishments
