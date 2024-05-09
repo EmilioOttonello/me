@@ -57,7 +57,7 @@ skills:
         description: ''
         percent: 70
         icon: pencil
-        icon_pack: fab
+        icon_pack: fas
       - name: Cad modeling
         description: ''
         percent: 60
