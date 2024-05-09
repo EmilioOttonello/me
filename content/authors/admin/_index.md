@@ -60,7 +60,7 @@ skills:
         icon_pack: fas
       - name: Cad modeling
         description: ''
-        percent: 60
+        percent: 70
         icon: database
         icon_pack: fas
   - name: Hobbies
