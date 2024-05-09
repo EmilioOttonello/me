@@ -76,21 +76,21 @@ sections:
       #        * Modelling
       #        * Deploying
         - title: Mathematics and Physics tutor
-            company: GoStudent
-            company_url: 'https://www.gostudent.org/'
-            company_logo: gost
-            location: ''
-            date_start: '2022-12-01'
-            date_end: ''
-            #description:  
+          company: GoStudent
+          company_url: 'https://www.gostudent.org/'
+          company_logo: gost
+          location: ''
+          date_start: '2022-12-01'
+          date_end: ''
+          #description:  
         - title: Visitng PhD student
-            company: Inria - MFX
-            company_url: 'https://mfx.loria.fr/'
-            company_logo: mfx
-            location: Nancy
-            date_start: '2023-10-01'
-            date_end: '2024-03-31'
-            description: Design of a novel curved MEX printing 
+          company: Inria - MFX
+          company_url: 'https://mfx.loria.fr/'
+          company_logo: mfx
+          location: Nancy
+          date_start: '2023-10-01'
+          date_end: '2024-03-31'
+          description: Design of a novel curved MEX printing 
     design:
       columns: '2'
   - block: accomplishments
