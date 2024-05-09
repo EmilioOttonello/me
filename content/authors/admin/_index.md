@@ -55,12 +55,12 @@ skills:
         icon_pack: fab
       - name: Mechanical drawing
         description: ''
-        percent: 70
+        percent: 80
         icon: pencil
         icon_pack: fas
       - name: Cad modeling
         description: ''
-        percent: 70
+        percent: 80
         icon: cube
         icon_pack: fas
   - name: Hobbies
