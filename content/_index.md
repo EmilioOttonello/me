@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-05-09
 type: landing
 
 sections:
@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: PhD student
+          company: Istituto Italiano di Tecnologia
+          company_url: 'https://www.iit.it/'
+          company_logo: iit
+          location: Genova
+          date_start: '2021-11-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+      #    description: |2-
+      #        Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+      #        * Analysing
+      #        * Modelling
+      #        * Deploying
+        - title: Visitng PhD student
+          company: Inria - MFX
+          company_url: 'https://mfx.loria.fr/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Nancy
+          date_start: '2023-10-01'
+          date_end: '2024-03-31'
+          description: Design of a novel curved MEX system
     design:
       columns: '2'
   - block: accomplishments
