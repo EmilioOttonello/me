@@ -56,11 +56,11 @@ skills:
       - name: Mechanical drawing
         description: ''
         percent: 70
-        icon: hero:pencil
-        icon_pack: hero
+        icon: pencil
+        icon_pack: fab
       - name: Cad modeling
         description: ''
-        percent: 80
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
