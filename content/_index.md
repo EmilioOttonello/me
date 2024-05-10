@@ -106,8 +106,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://learn.onshape.com/
-          date_end: '2024-05-09'
-          date_start: ''
+          date_end: ''
+          date_start: '2024-05-09'
           description: ''
           icon: onshape
           organization: OnShape
@@ -115,6 +115,8 @@ sections:
           title: Introduction to Part Design
           link: uploads/resume.pdf
           url: ''
+    design:
+      columns: '2'
         # - certificate_url: https://www.edx.org
         #   date_end: ''
         #   date_start: '2021-01-01'
@@ -133,8 +135,8 @@ sections:
         #   organization_url: https://www.datacamp.com
         #   title: 'Object-Oriented Programming in R'
         #   url: ''
-    design:
-      columns: '2'
+  #   design:
+  #     columns: '2'
   # - block: collection
   #   id: posts
   #   content:
