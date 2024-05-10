@@ -106,7 +106,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://learn.onshape.com/
-          date_end: ''
+          date_end: '2024-05-09'
           date_start: '2024-05-09'
           description: ''
           icon: onshape
