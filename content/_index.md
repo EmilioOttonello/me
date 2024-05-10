@@ -107,7 +107,7 @@ sections:
       items:
         - certificate_url: https://learn.onshape.com/
           date_end: '2024-05-09'
-          date_start: '2024-05-09'
+          date_start: ''
           description: ''
           icon: onshape
           organization: OnShape
@@ -133,8 +133,8 @@ sections:
         #   organization_url: https://www.datacamp.com
         #   title: 'Object-Oriented Programming in R'
         #   url: ''
-  #   design:
-  #     columns: '2'
+     design:
+       columns: '2'
   # - block: collection
   #   id: posts
   #   content:
