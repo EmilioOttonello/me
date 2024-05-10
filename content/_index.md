@@ -107,7 +107,7 @@ sections:
       items:
         - certificate_url: https://learn.onshape.com/
           date_end: ''
-          date_start: '2021-05-09'
+          date_start: '2024-05-09'
           description: ''
           icon: onshape
           organization: OnShape
