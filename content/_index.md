@@ -82,7 +82,6 @@ sections:
           location: ''
           date_start: '2022-12-01'
           date_end: ''
-          #description:  
         - title: Visitng PhD student
           company: Inria - MFX
           company_url: 'https://mfx.loria.fr/'
