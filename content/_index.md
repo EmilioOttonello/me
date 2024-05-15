@@ -112,7 +112,7 @@ sections:
           icon: onshape
           organization: OnShape
           organization_url: https://www.onshape.com/
-          title: Introduction to Part Design
+          title: CAD Basics
           link: uploads/resume.pdf
           url: ''
     design:
